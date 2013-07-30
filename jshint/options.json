@@ -23,6 +23,7 @@
     "ne": true,
     "google": true,
     "Hashtable": true,
-    "moment": true
+    "moment": true,
+    "Modernizr": true
   }
 }
