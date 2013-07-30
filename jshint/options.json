@@ -1,0 +1,28 @@
+{
+  "devel": true,
+  "browser": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "immed": true,
+  "noarg": true,
+  "noempty": true,
+  "undef": true,
+  "strict": true,
+  "trailing": true,
+  "newcap": true,
+  "validthis": true,
+  "globals": {
+    "goog": true,
+    "noesis": true,
+    "angular": true,
+    "$": true,
+    "jQuery": true,
+    "ejs": true,
+    "Noesis": true,
+    "ne": true,
+    "google": true,
+    "Hashtable": true,
+    "moment": true
+  }
+}
