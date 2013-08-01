@@ -8,6 +8,7 @@
   "noarg": true,
   "noempty": true,
   "undef": true,
+  "latedef": "newcap",
   "strict": true,
   "trailing": true,
   "newcap": true,
